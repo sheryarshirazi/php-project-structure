@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+._.DS_Store
+
+# databases
+bin
+
+#local files
+localhost
+
+# sublime editor
+*.sublime*
+
+# compres files
+*.zip
+*.rar
+
+# required files
+!.gitkeep
+
+#project preference
+*.sublime*
+SideBarEnhancements.json
+
+# PHP PSR standar library directory
+vendor
